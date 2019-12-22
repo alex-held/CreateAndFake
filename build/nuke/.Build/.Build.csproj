@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <NukeVersion>0.5.3</NukeVersion>
+    <NukeVersion>0.23.4</NukeVersion>
     <NukeCodeGeneration>False</NukeCodeGeneration>
   </PropertyGroup>
 
